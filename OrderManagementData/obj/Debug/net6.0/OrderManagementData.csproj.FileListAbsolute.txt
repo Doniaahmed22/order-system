@@ -1,0 +1,12 @@
+C:\Users\pc\faculty\RouteTask\OrderManagementData\bin\Debug\net6.0\OrderManagementData.deps.json
+C:\Users\pc\faculty\RouteTask\OrderManagementData\bin\Debug\net6.0\OrderManagementData.dll
+C:\Users\pc\faculty\RouteTask\OrderManagementData\bin\Debug\net6.0\OrderManagementData.pdb
+C:\Users\pc\faculty\RouteTask\OrderManagementData\obj\Debug\net6.0\OrderManagementData.csproj.AssemblyReference.cache
+C:\Users\pc\faculty\RouteTask\OrderManagementData\obj\Debug\net6.0\OrderManagementData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\faculty\RouteTask\OrderManagementData\obj\Debug\net6.0\OrderManagementData.AssemblyInfoInputs.cache
+C:\Users\pc\faculty\RouteTask\OrderManagementData\obj\Debug\net6.0\OrderManagementData.AssemblyInfo.cs
+C:\Users\pc\faculty\RouteTask\OrderManagementData\obj\Debug\net6.0\OrderManagementData.csproj.CoreCompileInputs.cache
+C:\Users\pc\faculty\RouteTask\OrderManagementData\obj\Debug\net6.0\OrderManagementData.dll
+C:\Users\pc\faculty\RouteTask\OrderManagementData\obj\Debug\net6.0\refint\OrderManagementData.dll
+C:\Users\pc\faculty\RouteTask\OrderManagementData\obj\Debug\net6.0\OrderManagementData.pdb
+C:\Users\pc\faculty\RouteTask\OrderManagementData\obj\Debug\net6.0\ref\OrderManagementData.dll
